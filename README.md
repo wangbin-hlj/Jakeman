@@ -35,13 +35,20 @@ python --version
 ```
 应显示 `Python 3.10.x` 或更高版本。
 
-### 第二步：获取程序
+### 第二步：从 GitHub 下载程序
 
-将程序文件夹复制到目标机器，或通过 git 克隆：
+**方式一：git 克隆（推荐，方便后续更新）**
+
 ```bash
-git clone <仓库地址>
+git clone https://github.com/wangbin-hlj/Jakeman.git
 cd Jakeman
 ```
+
+**方式二：直接下载 ZIP**
+
+1. 打开 [https://github.com/wangbin-hlj/Jakeman](https://github.com/wangbin-hlj/Jakeman)
+2. 点击绿色 **Code** 按钮 → **Download ZIP**
+3. 解压到任意目录，进入解压后的文件夹
 
 ### 第三步：安装依赖
 
